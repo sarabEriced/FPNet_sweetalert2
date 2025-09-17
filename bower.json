@@ -1,0 +1,33 @@
+{
+  "name": "sweetalert2",
+  "description": "A beautiful, responsive, customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes, supported fork of sweetalert",
+  "main": "dist/sweetalert2.all.js",
+  "authors": [
+    "Matthew Francis Brunetti <zenflow87@gmail.com> (https://github.com/zenflow)",
+    "Morgan Touverey-Quilling <mtouverey@alembic-dev.com> (https://github.com/toverux)",
+    "Giuseppe Verni (https://github.com/gverni)",
+    "Sam Turrell <sam@samturrell.co.uk> (https://github.com/samturrell)",
+    "Joseph Schultz (https://github.com/acupofjose)",
+    "Johan Fagerberg (https://github.com/birjolaxew)"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "sweetalert",
+    "sweetalert2",
+    "alert",
+    "modal",
+    "popup",
+    "prompt",
+    "confirm",
+    "toast",
+    "accessible"
+  ],
+  "homepage": "https://github.com/sarabEriced/sweetalert2",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
