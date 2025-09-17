@@ -1,5 +1,8 @@
 #!/usr/bin/env zx
-import { $, echo, fs, glob } from 'zx'
+import {$} from 'zx'
+$.quote = s => `"${s}"`;
+
+import {echo, fs, glob } from 'zx'
 import { eslintFormat } from '@sweetalert2/eslint-config'
 import eslintConfig from '../eslint.config.mjs'
 
